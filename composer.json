@@ -1,0 +1,25 @@
+{
+  "name": "zikwall/encore-base-theme",
+  "description": "enCore base core theme",
+  "keywords": ["framework", "yii2", "core", "theme", "zikwall"],
+  "type": "encore-core-theme",
+  "support": {
+    "issues": "https://github.com/zikwall/encore-base-theme/issues?state=open",
+    "source": "https://github.com/zikwall/encore-base-theme"
+  },
+  "authors": [
+    {
+      "name": "Andrey Kapitonov",
+      "email": "andrey.kapitonov.96@gmall.com"
+    }
+  ],
+  "require": {
+    "zikwall/encore-installer": "~0.0.1",
+    "zikwall/en-core": "~0.1.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "zikwall\\encore\\themes\\base\\": ""
+    }
+  }
+}

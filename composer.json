@@ -15,7 +15,8 @@
   ],
   "require": {
     "zikwall/encore-installer": "~0.0.1",
-    "zikwall/en-core": "~0.1.1"
+    "zikwall/en-core": "~0.1.1",
+    "zikwall/core": "~0.1.0"
   },
   "autoload": {
     "psr-4": {
